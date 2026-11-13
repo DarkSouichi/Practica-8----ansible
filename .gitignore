@@ -1,0 +1,8 @@
+# Inventario con credenciales
+ansible/inventario.ini
+
+# Archivos temporales de Ansible
+*.retry
+
+# Archivos temporales
+*.log
